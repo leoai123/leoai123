@@ -24,7 +24,7 @@ An AI-powered LINE chatbot that lets users snap photos of foreign menus, medicat
 
 > `Python` `Flask` `Gemini Vision API` `LINE SDK` `Render`
 
-#### AI-Powered B2B Prospecting Engine
+#### [ProspectAI](https://leoai123.github.io/prospectai-landing/) — AI-Powered B2B Prospecting Engine
 An automated outbound system that scrapes qualified leads, verifies contacts, and generates hyper-personalized cold emails based on each prospect's industry context — then sends on autopilot with deliverability safeguards.
 
 **Why I built it:** After years of watching sales teams burn hours on manual prospecting and generic outreach, I built the tool I wished I had. Every email is tailored per-prospect — the way a top AE would write, but at scale.
