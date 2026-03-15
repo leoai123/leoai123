@@ -2,7 +2,7 @@
 
 **SaaS Business Development | Customer Success | AI-Assisted Builder**
 
-7+ years in SaaS sales, customer success, and digital transformation at **Alibaba** and **Crescendo Lab** — advising 300+ SMB and mid-market clients (Estee Lauder, Nestle, Mercedes-Benz Financial Services) on CRM, MarTech, and go-to-market strategy.
+7+ years in SaaS sales, customer success, and digital transformation — advising 300+ SMB and mid-market clients on CRM, MarTech, and go-to-market strategy.
 
 I also build and ship products using AI-assisted development. These side projects aren't just coding exercises — they come from real business problems I've encountered in sales, prospecting, and customer workflows. I use tools like Claude Code, Cursor, and v0 to go from idea to live product fast.
 
@@ -31,18 +31,6 @@ An automated outbound system that scrapes qualified leads, verifies contacts, an
 
 > `Python` `OpenAI API` `Email Automation` `Web Scraping`
 
-
----
-
-### Career Highlights
-
-- **130%+ of annual sales targets** for 2 consecutive years at Crescendo Lab (Series A SaaS)
-- **Highest ACV portfolio** on the team — trusted advisor to enterprise accounts
-- **Co-founded VirtualMe** (AI startup) — MVP to 50K+ users in one quarter; secured POC with listed companies in 6 months
-- **Built partner ecosystems** (Salesforce, CDP, eCommerce) contributing ~30% of team revenue
-- **Led GTM** for new product lines expanding into Taiwan and Thailand markets
-- **Innovation Prize & Best Team** at Taipei International Startup Weekend
-
 ---
 
 ### Tech & Tools
@@ -61,6 +49,4 @@ Infrastructure     : Supabase, Vercel, Render, Cloudflare, Stripe
 
 - **Email:** leo1125s@gmail.com
 - **LinkedIn:** [linkedin.com/in/leoyeh](https://www.linkedin.com/in/leoyeh)
-- **Location:** Taipei, Taiwan (Relocating to Canada)
-
-*Looking for SaaS pre-sales, post-sales, or solutions consulting roles where I can combine business expertise with hands-on technical fluency. Open to North America and APAC.*
+- **Location:** Taipei, Toronto, LA
