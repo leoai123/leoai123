@@ -31,10 +31,6 @@ An automated outbound system that scrapes qualified leads, verifies contacts, an
 
 > `Python` `OpenAI API` `Email Automation` `Web Scraping`
 
-#### CMSaaStarter_Leo
-Full-stack SaaS boilerplate with authentication, Stripe billing, user dashboard, and marketing pages — used as my go-to foundation for rapidly prototyping new SaaS ideas.
-
-> `SvelteKit` `Supabase` `Stripe` `TailwindCSS`
 
 ---
 
