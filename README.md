@@ -48,5 +48,5 @@ Infrastructure     : Supabase, Vercel, Render, Cloudflare, Stripe
 ### Let's Connect
 
 - **Email:** leo1125s@gmail.com
-- **LinkedIn:** [linkedin.com/in/leoyeh](https://www.linkedin.com/in/leoyeh)
-- **Location:** Taipei, Toronto, LA
+- **LinkedIn:** https://www.linkedin.com/in/leo-yeh-37952a149/
+- **Location:** Taipei,
