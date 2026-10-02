@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="What I do: AI agents and automation; full-stack web products; LINE chatbots and mini-apps; data and cloud">
+  <style>
+    .card { fill: #f7f5f0; stroke: #e6e1d6; }
+    .ic { fill: #0f766e; }
+    .ic2 { fill: #e9a23b; }
+    .ttl { fill: #14213d; }
+    .lab { fill: #5b6475; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0f1724; stroke: #253246; }
+      .ic { fill: #2dd4bf; }
+      .ttl { fill: #f1f3f7; }
+      .lab { fill: #9aa4b5; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- 1: AI agents -->
+  <rect class="card" x="1" y="1" width="285" height="168" rx="16"/>
+  <circle class="ic" cx="40" cy="44" r="14"/><circle class="ic2" cx="62" cy="34" r="6"/><circle class="ic2" cx="62" cy="56" r="6"/>
+  <text class="ttl" x="28" y="98" font-size="21" font-weight="800">AI Agents</text>
+  <text class="lab" x="28" y="126" font-size="15">Agents that run marketing,</text>
+  <text class="lab" x="28" y="148" font-size="15">sales &amp; back-office workflows</text>
+
+  <!-- 2: web products -->
+  <rect class="card" x="305" y="1" width="285" height="168" rx="16"/>
+  <rect class="ic" x="330" y="30" width="44" height="30" rx="5"/><rect class="ic2" x="336" y="36" width="14" height="4" rx="2"/>
+  <text class="ttl" x="332" y="98" font-size="21" font-weight="800">Web Products</text>
+  <text class="lab" x="332" y="126" font-size="15">Full-stack apps, marketplaces</text>
+  <text class="lab" x="332" y="148" font-size="15">&amp; multilingual B2B sites</text>
+
+  <!-- 3: LINE -->
+  <rect class="card" x="609" y="1" width="285" height="168" rx="16"/>
+  <rect class="ic" x="634" y="28" width="40" height="28" rx="12"/><path class="ic" d="M644 54 l-6 10 l14 -8 z"/><circle class="ic2" cx="646" cy="42" r="3"/><circle class="ic2" cx="654" cy="42" r="3"/><circle class="ic2" cx="662" cy="42" r="3"/>
+  <text class="ttl" x="636" y="98" font-size="21" font-weight="800">Chatbots</text>
+  <text class="lab" x="636" y="126" font-size="15">LINE bots, LIFF mini-apps,</text>
+  <text class="lab" x="636" y="148" font-size="15">vision &amp; voice AI</text>
+
+  <!-- 4: data & cloud -->
+  <rect class="card" x="913" y="1" width="286" height="168" rx="16"/>
+  <rect class="ic" x="940" y="44" width="9" height="18" rx="2"/><rect class="ic" x="954" y="34" width="9" height="28" rx="2"/><rect class="ic2" x="968" y="26" width="9" height="36" rx="2"/>
+  <text class="ttl" x="940" y="98" font-size="21" font-weight="800">Data &amp; Cloud</text>
+  <text class="lab" x="940" y="126" font-size="15">SQL analytics, dashboards,</text>
+  <text class="lab" x="940" y="148" font-size="15">serverless deployment</text>
+</svg>
